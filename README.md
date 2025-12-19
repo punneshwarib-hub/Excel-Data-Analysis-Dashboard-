@@ -1,6 +1,4 @@
 # Automated Excel BI Dashboard for KPI & Performance Analysis
-## Dataset used 
-<a href="https://github.com/punneshwarib-hub/Excel-Data-Analysis-Dashboard-/blob/main/My%20Excel%20Project%202.xlsx">Dataset</a>
 ## 1. Business Problem Statement
 Organizations often work with large volumes of raw data but lack a structured and automated way to convert this data into meaningful insights. Manual data cleaning, repeated calculations, and static reports lead to inefficiencies, errors, and delayed decision-making.
 The business requires a solution that can:
@@ -68,5 +66,14 @@ This project delivers an automated Excel-based BI solution that transforms raw d
 - Eliminated repetitive manual reporting tasks.
   
 **Outcome:** Automated reporting with ~60% reduction in manual effort.
+## 6. Business Insights & Value
+- Enabled real-time KPI monitoring and trend analysis.
+- Improved data accuracy and consistency.
+- Reduced reporting turnaround time.
+- Empowered stakeholders to make faster, data-driven decisions.
+-  ## Solution files
+<a href="https://github.com/punneshwarib-hub/Excel-Data-Analysis-Dashboard-/blob/main/My%20Excel%20Project%202.xlsx">Pivot tables and Dashboard</a>
+
+
 
 
