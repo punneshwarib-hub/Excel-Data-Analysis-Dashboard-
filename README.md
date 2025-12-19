@@ -73,6 +73,7 @@ This project delivers an automated Excel-based BI solution that transforms raw d
 - Empowered stakeholders to make faster, data-driven decisions.
 -  ## Solution files
 <a href="https://github.com/punneshwarib-hub/Excel-Data-Analysis-Dashboard-/blob/main/My%20Excel%20Project%202.xlsx">Pivot tables and Dashboard Excel file </a>
+
 <a href="https://github.com/punneshwarib-hub/Excel-Data-Analysis-Dashboard-/blob/main/Excel%20dashboard.png">Dashboard</a>
 
 
