@@ -30,36 +30,43 @@ This project delivers an automated Excel-based BI solution that transforms raw d
 - Removed duplicates and handled missing or inconsistent values.
 - Standardized column names, formats, and data types.
 - Applied transformation steps that automatically rerun on data refresh.
+  
 **Outcome:** Clean, structured, refresh-ready data.
 ### Step 3: Data Modeling (Power Pivot)
 - Loaded cleaned tables into Power Pivot.
 - Created relationships between tables using primary and foreign keys.
 - Optimized the data model for accurate calculations and performance.
+  
 **Outcome:** A relational data model supporting scalable analysis.
 ### Step 4: KPI Calculation (DAX)
 - Created calculated measures using DAX for business KPIs.
 - Ensured measures dynamically respond to filters and slicers.
 - Centralized calculations to avoid redundant formulas.
+  
 **Outcome:** Accurate, reusable KPI logic.
 ### Step 5: Analytical Views (Pivot Tables)
 - Built PivotTables using the data model and DAX measures.
 - Created multiple analytical views to support different perspectives.
 - Ensured PivotTables refresh automatically.
+  
 **Outcome:** Structured analytical foundation for reporting.
 ### Step 6: Dashboard Design & Visualization
 - Designed a clean, executive-friendly dashboard layout.
 - Created PivotCharts to visualize trends and KPIs.
 - Applied consistent formatting and alignment for clarity and usability.
+  
 **Outcome:** Professional, easy-to-read dashboard.
 ### Step 7: Interactivity (Slicers & Timelines)
 - Added slicers for key dimensions.
 - Integrated timelines for time-based analysis.
 - Synced slicers across all visuals for unified interaction.
+  
 **Outcome:** Fully interactive, self-service analysis.
 ### Step 8: Automation & Refresh Workflow
 - Configured the dashboard to update using a single “Refresh All” action.
 - Automated data cleaning, modeling, KPI updates, and visuals.
 - Eliminated repetitive manual reporting tasks.
+  
 **Outcome:** Automated reporting with ~60% reduction in manual effort.
 
 
